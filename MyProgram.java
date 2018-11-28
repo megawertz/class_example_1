@@ -6,7 +6,9 @@ public class MyProgram
       // Note it will disappear when I switch back to
       //   my main branch.
       
-      // I made this change on the server but this could've been made by a colleague
+      // I made this LET"S CREATE A CONFLICT on the server but this could've been made by a colleague
+   
+      
    
    }
    
